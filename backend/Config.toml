@@ -1,0 +1,4 @@
+# Appwrite Configuration
+appwriteEndpoint = "https://cloud.appwrite.io"
+appwriteProjectId = "YOUR_PROJECT_ID"
+appwriteApiKey = "YOUR_API_KEY"

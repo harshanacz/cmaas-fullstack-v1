@@ -1,0 +1,18 @@
+[package]
+org = "auth_service"
+name = "email_auth"
+version = "0.1.0"
+distribution = "2201.10.0"
+
+[build-options]
+observabilityIncluded = true
+
+[[dependency]]
+org = "ballerina"
+name = "http"
+version = "2.14.3"
+
+[[dependency]]
+org = "ballerina"
+name = "log"
+version = "2.10.0"
